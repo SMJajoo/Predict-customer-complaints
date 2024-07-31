@@ -1,2 +1,6 @@
 # Predict-customer-complaints
 Time Series Analysis and Forecasting: Use SARIMAX to Predict Customer Complaints in Python
+
+I've noticed a growing trend in customer complaints regarding slow response times to emails and lengthy waiting times on phone calls. We need to understand these trends better and forecast future complaint volumes to allocate our resources effectively and improve our customer service experience. I'd like you to analyze the time series data related to customer complaints and identify patterns that can help us in predicting and address these issues more efficiently.
+
+To complete this project, you'll need to perform a comprehensive time series analysis using the provided customer complaint datasets. Apply various techniques such as exploratory data analysis, forecasting, and visualization using Python libraries like pandas, statsmodels, and matplotlib. Develop a SARIMAX forecasting model to predict future complaint volumes and resource requirements. Once you have completed your analysis, prepare a detailed report with visualizations, insights, and recommendations that can help us make data-driven decisions to enhance our customer support. Remember, our goal is to improve response times and better serve our customers, so your findings will play a critical role in shaping our support strategies moving forward.
